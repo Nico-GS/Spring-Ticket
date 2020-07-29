@@ -1,4 +1,4 @@
-package org.example.demo.ticket.business.manager;
+package org.example.demo.ticket.business.manager.manager;
 
 
 import java.util.ArrayList;
